@@ -6,8 +6,6 @@ This repository contains my personal study notes for the **Databricks Certified 
 
 * **Primary Resource:** *Databricks-Certified-Data-Engineer-Associate-Study-Guide* by Derar Alhussein.
 
-The goal is to summarize key concepts, consolidate code snippets (both PySpark and SQL), and align the book's chapters with the official exam objectives.
-
 ---
 
 ## Official Exam Domains
