@@ -24,7 +24,7 @@ The exam officially covers five key domains. My notes are structured to align wi
 
 Below is the mapping of my notes to the exam domains and the book's chapters.
 
-### 1. Domain: Databricks Lakehouse Platform
+### 1. Getting Started with Databricks
 * **Book Chapters:** (e.g., Chapters 1-2)
 * **Notes File:** [`/notes/01_Lakehouse_Platform.md`](./notes/01_Lakehouse_Platform.md)
 * **Topics Covered:** Core architecture, clusters, notebooks, Databricks SQL, file system (DBFS), Repos.
